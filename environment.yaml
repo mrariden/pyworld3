@@ -1,0 +1,5 @@
+name: pyworld3
+dependencies:
+    - numpy
+    - scipy
+    - matplotlib
